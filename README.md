@@ -9,3 +9,10 @@ A wrapper for our favorite python plotting libraries that makes high-quality plo
 3. Easy integration using pandas
 4. Standard tasks: convert to log-scales, define color limits based on outliers, etc.
 5. Integration with Jupyter
+ 
+### Road Map
+
+* implement basic plotting methods: scatter, bar, histogram, heatmap using bokeh and plot.ly
+* use palettes from palettable
+* automatic outiler detection
+* grids and layouts
